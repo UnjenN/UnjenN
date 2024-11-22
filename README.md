@@ -17,6 +17,7 @@
 Always craved for fun. The idea of creating something entertaining and humorous is what drives me.
 <br>
 <br>
+<br>
 
 ## 🛠️ Technologies & Tools 
 
