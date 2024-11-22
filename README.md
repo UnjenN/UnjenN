@@ -21,7 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN&cache_seconds=0)](https://github.com/UnjenN/github-readme-stats)
 <br>
 <br>
 
@@ -39,6 +38,8 @@
 - **Key Features**:  
   - Programming for calculating object collisions
   - Ailens don't talk
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN&cache_seconds=0)](https://github.com/UnjenN/github-readme-stats)
 
 ## 📫 Contact
 - ysy050900@naver.com  
