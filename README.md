@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=H+e+l+l+o;T+h+e+r+e)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
 <!--
 **UnjenN/UnjenN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
