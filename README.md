@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=README&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=README.md&fontSize=90&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=O+p+e+n+S+o+u+r+c+e;P+r+o+g+r+a+m+m+i+n+g;F+i+r+s+t+A+s+s+i+g+n+m+e+n+t)](https://git.io/typing-svg)
 	
