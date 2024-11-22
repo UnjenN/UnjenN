@@ -17,6 +17,8 @@
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenNa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
 <br>
 <br>
