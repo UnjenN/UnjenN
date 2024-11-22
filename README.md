@@ -22,7 +22,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN&cache_seconds=0)](https://github.com/UnjenN/github-readme-stats)
 <br>
 <br>
-📫**Contact**
+## 📫 Contact me
 - ysy050900@naver.com  
 - gmvzsvun@gmail.com
 <br>
@@ -32,7 +32,7 @@
 <a href=https://alie.kr/5UGiteU><img src="https://img.shields.io/badge/go_back_to_study-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/></a>  
 <br>
 <br>
-Open to collaboration on interesting projects
+Always open to collaboration on interesting projects
 <br>
 <br>
 <br>
