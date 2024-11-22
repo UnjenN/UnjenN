@@ -11,11 +11,11 @@
 
 
 
-- 20243843 윤세영
-- 중앙대학교 예술공학부
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+20243843 윤세영 | 🎓 중앙대학교 예술공학부
+<br>
+<br>
+- **Programming Languages**: Python, C++
+- 
 - 📫ysy050900@naver.com
 - 📫gmvzsvun@gmail.com
 
