@@ -23,7 +23,23 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN&cache_seconds=0)](https://github.com/UnjenN/github-readme-stats)
 <br>
 <br>
-## 📫 Contact me
+
+## 📂 Projects  
+
+###  Python turtle flag
+- **Description**: A program drawing flags with python's turtle graphics module. The turtle draws pre-defined national flags based on information received from a custom-built UI.
+- **Key Features**:  
+  - Turtle draws flags
+  - Easy-to-use UI
+  - Turtle talks
+ 
+###  Python shooting
+- **Description**: A shooting game shooting ailens. Advanced programming techniques were used to calculate object collisions and transformations.
+- **Key Features**:  
+  - Programming for calculating object collisions
+  - Ailens don't talk
+
+## 📫 Contact
 - ysy050900@naver.com  
 - gmvzsvun@gmail.com
 <br>
