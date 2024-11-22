@@ -17,9 +17,9 @@
 - **Programming Languages**: Python, C++
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN&cache_seconds=0)](https://github.com/UnjenN/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN&cache_seconds=0)](https://github.com/UnjenN/github-readme-stats)
 <br>
 <br>
 📫**Contact**
