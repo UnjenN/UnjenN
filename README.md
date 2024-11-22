@@ -49,7 +49,7 @@ Always craved for fun. The idea of creating something entertaining and humorous 
 - **Key Features**:  
   - Program detects your eye blinking through camera
   - Spooky ghost spooks you
-  - look behind you
+  - Look behind you
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN&cache_seconds=0)](https://github.com/UnjenN/github-readme-stats)
