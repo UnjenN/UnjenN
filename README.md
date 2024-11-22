@@ -9,18 +9,10 @@
 </div>
 
 
-
-
 20243843 윤세영 | 🎓 중앙대학교 예술공학부
 <br>
 <br>
 - **Programming Languages**: Python, C++
-<br>
-<br>
-- 📫ysy050900@naver.com  
-- 📫gmvzsvun@gmail.com
-
-Open to collaboration on interesting projects
 
 <a href=https://www.discord.com/users/647713292659326976><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <a href=https://url.kr/36z3z7><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -32,6 +24,11 @@ Open to collaboration on interesting projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
 <br>
+<br>
+
+- 📫ysy050900@naver.com  
+- 📫gmvzsvun@gmail.com
+- Open to collaboration on interesting projects
 <br>
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
