@@ -14,6 +14,8 @@
 🎓 중앙대학교 예술공학부
 <br>
 
+I am always craved for fun. The idea of creating something entertaining and humorous is what drives me.
+
 ## 🛠️ Technologies & Tools 
 
 - **Programming Languages**: Python, C++
