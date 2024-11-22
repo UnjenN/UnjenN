@@ -29,6 +29,8 @@
 <a href=https://github.com/UnjenN><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href=https://alie.kr/5UGiteU><img src="https://img.shields.io/badge/go_back_to_study-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/></a>  
 <br>
+<br>
 Open to collaboration on interesting projects
+<br>
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
