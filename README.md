@@ -20,7 +20,7 @@
 - 📫ysy050900@naver.com  
 - 📫gmvzsvun@gmail.com
 
-흥미로운 프로젝트에 협업할 준비가 되어 있습니다  
+Open to collaboration on interesting projects
 
 <a href=https://www.discord.com/users/647713292659326976><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <a href=https://url.kr/36z3z7><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
