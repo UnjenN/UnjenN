@@ -17,7 +17,7 @@
 - **Programming Languages**: Python, C++
 <br>
 <br>
-- 📫ysy050900@naver.com
+- 📫ysy050900@naver.com  
 - 📫gmvzsvun@gmail.com
 
 흥미로운 프로젝트에 협업할 준비가 되어 있습니다  
