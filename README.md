@@ -42,7 +42,7 @@
  ###  Don't blink
 - **Description**: A horror game using machine learning and python. The game interacts through eye blinking, powered by machine learning.
 - **Key Features**:  
-  - Program detects your eye blinking through camera.
+  - Program detects your eye blinking through camera
   - Ghost doesn't talk
 <br>
 
