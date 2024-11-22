@@ -27,7 +27,8 @@
 <br>
 
 - 📫ysy050900@naver.com  
-- 📫gmvzsvun@gmail.com  
+- 📫gmvzsvun@gmail.com
+<br>
 Open to collaboration on interesting projects
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
