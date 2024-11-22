@@ -15,7 +15,8 @@
 <br>
 <br>
 - **Programming Languages**: Python, C++
-- 
+<br>
+<br>
 - 📫ysy050900@naver.com
 - 📫gmvzsvun@gmail.com
 
