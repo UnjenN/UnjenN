@@ -18,7 +18,6 @@
 - ⚡ Fun fact: ...
 
 <a href=https://www.discord.com/users/647713292659326976><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
-<a href=https://www.instagram.com/unjennga/profilecard/?igsh=MXNjYWV1OXd1dDNl><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
 
