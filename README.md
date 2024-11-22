@@ -12,6 +12,8 @@
 20243843 윤세영 | 🎓 중앙대학교 예술공학부
 <br>
 <br>
+## 🛠️ Technologies & Tools 
+
 - **Programming Languages**: Python, C++
 <br>
 <br>
