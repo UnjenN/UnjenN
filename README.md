@@ -15,9 +15,7 @@
 - **Programming Languages**: Python, C++
 <br>
 <br>
-[![UnjenN's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
-
-![UnjenN's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenNa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN&token=YOUR_PERSONAL_ACCESS_TOKEN)](https://github.com/UnjenN/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
 <br>
