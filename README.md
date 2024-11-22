@@ -19,7 +19,7 @@
 
 <a href=https://www.discord.com/users/647713292659326976><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <a href=https://url.kr/36z3z7><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+<a href=https://alie.kr/5UGiteU><img src="https://img.shields.io/badge/GoogleAssistant-#285F4?style=for-the-badge&logo=GoogleAssistant&logoColor=white"/></a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
