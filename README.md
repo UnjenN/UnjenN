@@ -12,12 +12,8 @@
 
 - 20243843 윤세영  
 🎓 중앙대학교 예술공학부
-<br>
 
 Always craved for fun. The idea of creating something entertaining and humorous is what drives me.
-<br>
-<br>
-<br>
 
 ## 🛠️ Technologies & Tools 
 
@@ -25,9 +21,6 @@ Always craved for fun. The idea of creating something entertaining and humorous 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnjenN)](https://github.com/UnjenN/github-readme-stats)
-
-<br>
-<br>
 
 ## 📂 Projects  
 
@@ -50,12 +43,8 @@ Always craved for fun. The idea of creating something entertaining and humorous 
   - Program detects your eye blinking through camera
   - Spooky ghost spooks you
   - Look behind you
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnjenN&cache_seconds=0)](https://github.com/UnjenN/github-readme-stats)
-
-<br>
-<br>
 
 ## 📫 Contact
 - ysy050900@naver.com  
